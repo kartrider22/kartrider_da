@@ -6,7 +6,7 @@
 
 Work Flow:
 
-```mermaid
+```
 issue 템플릿 통해 생성 > 코드 업로드 > 확인
 ```
 
